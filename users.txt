@@ -1,0 +1,5 @@
+asdf 1.4127e+07
+qwerty 0
+zxcv 0
+fg 1.6175e+07
+h 3.8e+06

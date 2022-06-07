@@ -1,0 +1,11 @@
+﻿  Car.cpp
+  ConsoleApplication15.cpp
+C:\Users\Zver\Desktop\ConsoleApplication15 (1)\ConsoleApplication15 (1)\ConsoleApplication15\ConsoleApplication15.cpp(476,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Filter.cpp
+  User.cpp
+C:\Users\Zver\Desktop\ConsoleApplication15 (1)\ConsoleApplication15 (1)\ConsoleApplication15\User.cpp(16,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zver\Desktop\ConsoleApplication15 (1)\ConsoleApplication15 (1)\ConsoleApplication15\User.cpp(25,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zver\Desktop\ConsoleApplication15 (1)\ConsoleApplication15 (1)\ConsoleApplication15\User.cpp(101,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zver\Desktop\ConsoleApplication15 (1)\ConsoleApplication15 (1)\ConsoleApplication15\User.cpp(145,34): warning C4018: >: несоответствие типов со знаком и без знака
+  Создание кода...
+  ConsoleApplication15.vcxproj -> C:\Users\Zver\Desktop\ConsoleApplication15 (1)\ConsoleApplication15 (1)\ConsoleApplication15\Debug\ConsoleApplication15.exe
